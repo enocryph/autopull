@@ -1,0 +1,12 @@
+{
+  "require": {
+    "php": ">=7.4",
+    "vlucas/phpdotenv": "^4.1",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "AutoPull\\": "src/"
+    }
+  }
+}
